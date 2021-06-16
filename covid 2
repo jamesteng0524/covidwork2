@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>My Home page</title>
+
+    <style media="screen">
+    li{
+      font-family:cursive;
+      font-weight: bold;
+      color:orange;
+    </style>
+
+    <link rel="stylesheet" href="styles.css">
+
+  </head>
+
+  <body>
+    <h1>Home page</h1>
+    <p>Different kinds of pets</p>
+    <img src="webpage.jpeg" style="width:100px;length:;"alt="">
+  </body>
+  <ol>
+  <li>dog</li>
+  <li>cat</li>
+  <li>pig</li>
+  <li>mouse</li>
+  <li>pikachu</li>
+  <li>???</li>
+
+</html>
+body {
+  margin: 20px;
+  background-color:tomato
+}
